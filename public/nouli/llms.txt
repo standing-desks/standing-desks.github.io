@@ -1,0 +1,5 @@
+# Nouli
+
+Nouli moved to https://nouli.ai. Read https://nouli.ai/llms.txt for the current commands.
+Install: curl -fsSL https://nouli.ai/install.sh | sh
+Source: https://github.com/nouli-ai/nouli
